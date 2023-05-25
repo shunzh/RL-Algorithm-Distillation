@@ -1,0 +1,14 @@
+{
+    "hidden_size": 64,
+    "n_layer": 4,
+    "n_head": 4,
+    "attn_pdrop": 0.5,
+    "token_mask_prob": 0.3,
+
+    "max_seq_len": 256,
+    "state_dim": 2,
+    "act_dim": 1,
+    "act_num": 5,
+
+    "context_len": 80
+}

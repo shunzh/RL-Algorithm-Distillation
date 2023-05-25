@@ -1,0 +1,15 @@
+{
+    "policy": "MlpPolicy",
+    "verbose": 1,
+    "gamma": 0.99,
+    "gae_lambda": 0.95,
+    "ent_coef": 0.01,
+    "learning_rate": 0.0001,
+    "policy_kwargs": {
+        "net_arch": {
+            "pi": [128, 128, 128],
+            "vf": [128, 128, 128]
+        }
+    },
+    "n_steps": 100
+  }
