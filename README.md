@@ -1,3 +1,5 @@
+# In-context Reinforcement Learning with Algorithm Distillation (Unofficial)
+
 This is an **unofficial** implementation of the paper "In-context Reinforcement Learning with Algorithm Distillation" ([paper](https://arxiv.org/abs/2210.14215)).
 Only the DarkRoom environment is implemented in this repository.
 
